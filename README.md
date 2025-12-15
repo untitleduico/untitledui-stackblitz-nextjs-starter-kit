@@ -1,6 +1,6 @@
 # Untitled UI starter kit for Next.js
 
-This is an official Untitled UI starter kit for Next.js. Kickstart your Untitled UI project with Next.js in seconds.
+This is an official Untitled UI starter kit for StackBlitz & Next.js. Kickstart your Untitled UI project with StackBlitz & Next.js in seconds.
 
 ## Untitled UI React
 
@@ -9,6 +9,9 @@ This is an official Untitled UI starter kit for Next.js. Kickstart your Untitled
 Built with React 19.1, Tailwind CSS v4.1, TypeScript 5.8, and React Aria, Untitled UI React components deliver modern performance, type safety, and maintainability.
 
 [Learn more](https://www.untitledui.com/react) • [Documentation](https://www.untitledui.com/react/docs/introduction) • [Figma](https://www.untitledui.com/figma) • [FAQs](https://www.untitledui.com/faqs)
+
+> [!NOTE]  
+> This repository differs from the main [Next.js starter kit repository](https://github.com/untitleduico/untitledui-nextjs-starter-kit) with only the (legacy) Next.js version. Next.js versions after `14.2.28` seem to have broken the integration with StackBlitz. Therefore, this repository has a fixed `14.2.28` Next.js version.
 
 ## Getting started
 
