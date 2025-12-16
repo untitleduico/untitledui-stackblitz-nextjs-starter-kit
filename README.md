@@ -10,10 +10,11 @@ Built with React 19.1, Tailwind CSS v4.1, TypeScript 5.8, and React Aria, Untitl
 
 [Learn more](https://www.untitledui.com/react) • [Documentation](https://www.untitledui.com/react/docs/introduction) • [Figma](https://www.untitledui.com/figma) • [FAQs](https://www.untitledui.com/faqs)
 
-> [!NOTE]  
-> This repository differs from the main [Next.js starter kit repository](https://github.com/untitleduico/untitledui-nextjs-starter-kit) with only the (legacy) Next.js version. Next.js versions after `14.2.28` seem to have broken the integration with StackBlitz. Therefore, this repository has a fixed `14.2.28` Next.js version.
 
 ## Getting started
+
+> [!NOTE]  
+> This repository differs from the main [Next.js starter kit repository](https://github.com/untitleduico/untitledui-nextjs-starter-kit) with only the (legacy) Next.js version. Next.js versions after `14.2.28` seem to have broken the integration with StackBlitz. Therefore, this repository has a fixed `14.2.28` Next.js version.
 
 First, run the development server:
 
